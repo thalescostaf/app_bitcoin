@@ -1,0 +1,44 @@
+# Ignorar arquivos e pastas de dependências
+/node_modules/
+/vendor/
+
+# Ignorar arquivos de build
+/dist/
+/build/
+/out/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração de IDE
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de backup
+*.bak
+*.swp
+
+# Ignorar arquivos de cache
+.cache/
+
+# Ignorar arquivos gerados pelo sistema operacional
+*.log
+*.pid
+
+# Ignorar banco de dados
+*.sqlite
+*.db
+
+# Ignorar ambiente virtual
+venv/
+.env/
+*.env/
+
